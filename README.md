@@ -18,6 +18,10 @@ Windows users have it a bit harder when it comes to installing your command line
 
 This is a bit in the weeds and the instructions use lot of lingo so please don't hesitate to reach out to Alex to jump in a meeting to walk through these instructions together.
 
+## VSCode
+
+Download an install VSCode: https://code.visualstudio.com/download
+
 ## Create a GitHub Account
 
 Go to https://github.com/ and create a new account with your personal email address. If you have a GitHub account already you can use that instead.
