@@ -39,7 +39,7 @@ Over time, your GitHub account will grow into a public portfolio of your coding 
 ## Step 4: Set up Slack
 
 * Download the Slack application (https://slack.com/downloads)
-* Use your Code Immersives email to join our Slack group (a link is in the welcome slideshow)
+* Use your Code Immersives email to join our Slack group (a link is on the populi dashboard)
 * Add a profile picture to your Slack account
 * Send a direct message to the instructor and TAs (a single group message)
 
