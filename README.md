@@ -18,7 +18,7 @@ Alternatively, you can press `[CMD][SPACE]` to bring up MacOS's Spotlight Search
 
 Windows users have it a bit harder when it comes to installing your command line application (the default CMD application is not sufficient).
 
-You'll need to follow the "Manual Installation Instructions" here: https://docs.microsoft.com/en-us/windows/wsl/install-win10#manual-installation-steps
+You'll need to follow the "Manual Installation Instructions" here: https://docs.microsoft.com/en-us/windows/wsl/install-manual
 
 When you get to Step 6, I'd reccomend choosing the latest version of Ubuntu.
 
